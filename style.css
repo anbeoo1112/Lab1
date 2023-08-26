@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(78, 59, 59);
+    color: white;
+    font-display: ;
+}
+h1{
+    font-size: 100sp;
+    color: rgb(167,194,244);
+}
+.span1{
+    color: yellow;
+    }
+.style{
+    color: rgb(167,194,244);
+}
+.link{
+    color: red;
+    font-style: bold;
+}
+.span2{
+    font-style: italic;
+}
+p{
+    color: white;
+}
+li{
+    color: white;
+}
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
